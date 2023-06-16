@@ -1,0 +1,1 @@
+import{_ as d,u as i,j as s}from"./doenetml.js";const u=d.memo(function(t){let{name:a,id:e,SVs:n,children:l}=i(t);if(n.hidden)return null;let o="<",r=">";return n.selfClosed&&(r="/>"),s.jsxs("code",{id:e,style:{color:"var(--mainGreen)"},children:[s.jsx("a",{name:e}),o,l,r]})});export{u as default};

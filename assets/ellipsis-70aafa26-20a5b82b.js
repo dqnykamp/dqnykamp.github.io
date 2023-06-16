@@ -1,1 +1,0 @@
-import{_ as r,u as a,j as e}from"./index.js";const u=r.memo(function(n){let{name:m,id:t,SVs:s}=a(n);return s.hidden?null:e.jsxs(e.Fragment,{children:[e.jsx("a",{name:t}),"…"]})});export{u as default};

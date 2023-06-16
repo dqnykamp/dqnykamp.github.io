@@ -1,0 +1,1 @@
+import{_ as a,u as i,j as e}from"./doenetml.js";const d=a.memo(function(n){let{name:m,id:r,SVs:s,children:t}=i(n);return s.hidden?null:e.jsxs(e.Fragment,{children:[e.jsx("a",{name:r}),"‘",t,"’"]})});export{d as default};

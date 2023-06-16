@@ -1,0 +1,1 @@
+import{_ as r,u as a,j as e}from"./doenetml.js";const m=r.memo(function(s){let{name:d,id:n,SVs:t}=a(s,!1);return t.hidden?null:e.jsxs(e.Fragment,{children:[e.jsx("a",{name:n}),e.jsx("span",{id:n,children:t.text})]})});export{m as default};

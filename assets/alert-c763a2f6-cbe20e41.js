@@ -1,1 +1,0 @@
-import{_ as d,u as o,j as n}from"./index.js";const l=d.memo(function(s){let{name:i,id:e,SVs:r,children:t}=o(s);return r.hidden?null:n.jsxs("strong",{id:e,children:[n.jsx("a",{name:e}),t]})});export{l as default};
