@@ -1,0 +1,1 @@
+import{_ as r,u as l,j as t}from"./index.js";const x=r.memo(function(s){let{name:m,id:e,SVs:i,children:n}=l(s);if(i.hidden)return null;if(n.length===0)return t.jsx(r.Fragment,{},e);let a=n.slice(1).reduce((u,d)=>[...u,", ",d],[n[0]]);return t.jsxs(r.Fragment,{children:[t.jsx("a",{name:e}),a]},e)});export{x as default};

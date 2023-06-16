@@ -1,0 +1,1 @@
+import{_ as s,u as o,j as n,B as d}from"./index.js";const r=s.memo(function(t){let{name:l,SVs:e,actions:a,callAction:i}=o(t);return e.hidden?null:n.jsxs("div",{style:{margin:"12px 0",display:"inline-block"},children:[n.jsx("a",{name:l}),n.jsx(d,{id:l+"_button",onClick:()=>i({action:a.callAction}),disabled:e.disabled,value:e.label})]})});export{r as default};
